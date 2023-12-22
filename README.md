@@ -40,6 +40,6 @@ This project is open-sourced under the GNU General Public License v2.0.
 
 ## Contact
 For more information and updates, follow: 
-- [@_RIHCCOAST_](https://twitter.com/richcoast5) on Twitter.
-- [@_RIHCCOAST_](https://youtube.com/richcoast) on YouTube.
+- [@_RICHCOAST_](https://twitter.com/richcoast5) on Twitter.
+- [@_RICHCOAST_](https://youtube.com/richcoast) on YouTube.
 
